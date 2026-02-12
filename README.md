@@ -7,7 +7,7 @@
   <img src ="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHp6NDFncWNwNjg1bHkzMWUzeHdqYnQ1M3lvYWdiZjdob3p0NHBhdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/nEFaVNgFGGRQdWbmRq/giphy.gif" width="250" >
 <br/>
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=120&lines=%3E+Initializing+user:+Pium+Perera;%3E+Role:+Cybersecurity+Undergraduate;%3E+Focus:+Web+App+Security+%26+Pentesting;%3E+Status:+Seeking+Internship..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=39FF14&background=0D1117&center=true&vCenter=true&width=600&height=120&lines=%3E+Initializing+user:+Pium+Perera;%3E+Role:+Cybersecurity+Undergraduate;%3E+Focus:+Web+App+Security+%26+Pentesting;" alt="Typing SVG" />
 </a>
 
 <br/>
